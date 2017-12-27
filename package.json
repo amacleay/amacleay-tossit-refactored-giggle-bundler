@@ -1,0 +1,14 @@
+{
+  "name": "amacleay-tossit-refactored-giggle-bundler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "UNLICENCED",
+  "dependencies": {
+    "amacleay-throwitaway-refactored-giggle": "git+ssh://git@github.com/amacleay/amacleay-throwitaway-refactored-giggle.git#semver:^1.0.2"
+  }
+}
